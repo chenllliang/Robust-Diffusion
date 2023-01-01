@@ -1,5 +1,7 @@
 Source code for project report "On The Robustness of Diffusion-Based Text-to-Image Generation" in CV-2022-Fall.
 
+Members: Liang Chen, Zhe Yang, Zheng Li
+
 # Model Training
 
 ```
