@@ -18,7 +18,7 @@ conda env create -f environment.yaml
 conda activate ldm
 ```
 
-## Model Training
+## Training
 Specify which GPU (or GPUs) you want to use to train the model with:
 ```
 accelerate config
